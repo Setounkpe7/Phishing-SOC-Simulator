@@ -219,9 +219,9 @@ involving:
 Correlating Sysmon and Splunk data allowed me to determine the full
 scope of compromise and act quickly to prevent further damage.
 
-The simulation didn't stop here, this is a summary of my though process when resolving one of the most severe alert in the simulation.
+The simulation didn't stop here, this is a summary of my thought process when resolving one of the most severe alert in the simulation.
 
-I succesfuly completed the SOC simulation, and finished with a decent Mean Time To Respond of 4 min. 
+I succesfully completed the SOC simulation, and finished with a decent Mean Time To Respond of 4 min. 
 
 ![Alert](assets/images/Screenshot%20from%202025-12-01%2002-47-33.png)
 
